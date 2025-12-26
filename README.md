@@ -1,5 +1,5 @@
 # GCP_PUB-SUB
-Google Cloud Pub/Sub
+Synopsys on Google Cloud Pub/Sub
 
 Google Cloud Pub/Sub is a fully managed messaging service on GCP.
 It allows applications to communicate using asynchronous messages.
